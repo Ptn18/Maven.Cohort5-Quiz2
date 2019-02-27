@@ -6,8 +6,7 @@ import org.junit.Test;
 
 public class AddTest {
     @Test
-    public void test1() {
-        test(1);
+    public void test1() { test(1);
     }
 
     @Test
